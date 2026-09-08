@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072583476188",
+    "project_id": "docucheck-ai-7ebb0",
+    "storage_bucket": "docucheck-ai-7ebb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072583476188:android:624fca556d0150cd8f4519",
+        "android_client_info": {
+          "package_name": "com.example.docucheckai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH00EDIdzilkQUFksiP1yhLO9hpW79TN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
